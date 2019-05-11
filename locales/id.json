@@ -9,7 +9,7 @@
     "with the email address": "dengan alamat surel",
     "Your email address": "Alamat surel Anda",
     "You've successfully subscribed to": "Anda berhasil berlangganan ke",
-    "A collection of posts": "Sebuah koleksi artikel-artikel",
+    "No more posts": "Tidak ada artikel lebih lagi",
     "A collection of 1 post": "Sebuah koleksi dari 1 artikel",
     "A collection of % posts": "Sebuah koleksi dari % artikel",
     "Get the latest posts delivered right to your inbox": "Dapatkan artikel-artikel terbaru ke kotak surel Anda",
@@ -35,5 +35,6 @@
     "Go to the front page": "Kembali ke laman utama",
     "Message": "Pesan",
     "Full Story": "Simak Cerita Lengkapnya",
-    "Theme errors": "Galat pada Theme"
+    "Theme errors": "Galat pada Theme",
+    "as": "sebagai"
 }

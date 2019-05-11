@@ -9,7 +9,7 @@
     "with the email address": "with the email address",
     "Your email address": "Your email address",
     "You've successfully subscribed to": "You've successfully subscribed to",
-    "A collection of posts": "A collection of posts",
+    "No more posts": "No more posts",
     "A collection of 1 post": "A collection of 1 post",
     "A collection of % posts": "A collection of % posts",
     "Get the latest posts delivered right to your inbox": "Get the latest posts delivered right to your inbox",
@@ -34,5 +34,6 @@
     "Go to the front page": "Go to the front page",
     "Message": "Message",
     "Full Story": "Full Story",
-    "Theme errors": "Theme errors"
+    "Theme errors": "Theme errors",
+    "as": "as"
 }
