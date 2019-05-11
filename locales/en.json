@@ -18,7 +18,7 @@
     "No posts": "No posts",
     " (Page %)": " (Page %)",
     "Read More": "Read More",
-    "Read more posts by this author": "Read more posts by this author",
+    "Read <u><i><a href='{url}'>more posts</a></i><u> by this author": "Read <u><i><a href='{url}'>more posts</a></i><u> by this author",
     "See all % posts": "See all % posts",
     "Share this": "Share this",
     "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox": "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox",
